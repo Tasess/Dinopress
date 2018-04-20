@@ -1,0 +1,21 @@
+/* 
+Theme Name:		 vantage child
+Theme URI:		 http://www.websitebundles.com/
+Description:	 Theme by Site <a href=\"http://childthemegenerator.com/\">http://childthemegenerator.com/</a>
+Author:			 WebsiteBundles
+Author URI:		 http://childthemegenerator.com/
+Template:		 vantage
+Version:		 1.0.0
+Text Domain:	 Vantage-child
+-------------------------------------------------------------- */ 
+
+/* =Theme customization starts here
+------------------------------------------------------- */
+/* Page  gradient*/
+
+#main {
+	background-image: 
+    linear-gradient( 
+      #363636, #262626 60%
+    );
+}
